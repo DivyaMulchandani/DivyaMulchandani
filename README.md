@@ -1,23 +1,43 @@
-# Hi 👋, I'm Divya Mulchandani
+<!-- Cybersecurity-themed GitHub Profile README -->
 
-### ☁️ Cloud Security | ⚙️ DevSecOps | 🛡️ Application Security | 📋 GRC
+<div align="center">
 
-I'm an M.Tech Cyber Security student at **Rashtriya Raksha University**, passionate about securing cloud infrastructure, integrating security into software development, identifying application vulnerabilities, and managing information security risks.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:14213D,100:00F5D4&height=200&section=header&text=Divya%20Mulchandani&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Breaking%20things%20(in%20labs)%20%7C%20Securing%20things%20(in%20code)&descSize=14&descAlignY=58" width="100%" alt="Animated cybersecurity-themed header"/>
 
-With a background in full-stack development and hands-on cybersecurity projects, I enjoy bridging the gap between **development, security engineering, and risk management**.
+<a href="https://github.com/divyamulchandani">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=800&color=00F5D4&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Divya+%F0%9F%91%8B;Cloud+Security+%E2%98%81%EF%B8%8F;DevSecOps+%E2%9A%99%EF%B8%8F;Application+Security+%F0%9F%9B%A1%EF%B8%8F;GRC+%7C+Risk+%7C+Controls+%F0%9F%93%8B;Think+like+an+attacker.+Build+like+a+defender." alt="Animated introduction"/>
+</a>
 
-- ☁️ Exploring Cloud Security and Infrastructure Security
-- ⚙️ Interested in DevSecOps, CI/CD Security, and Security Automation
-- 🛡️ Working with Application Security, Vulnerability Assessment, and Secure Coding
-- 📋 Focused on Governance, Risk & Compliance (GRC) and IT Risk Management
-- 🔬 Researching Hybrid Classical–Post-Quantum Signatures for API Security
-- 🏆 1st Place — AI-Powered Cyber Forensics Bootcamp, ISEA Project Phase 3
-- 📫 Reach me at: **[divyamulchandani12@gmail.com](mailto:divyamulchandani12@gmail.com)**
-- 💼 GitHub: [@divyamulchandani](https://github.com/divyamulchandani)
+<br/>
+
+<a href="https://github.com/divyamulchandani?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20my-Projects-00F5D4?style=for-the-badge&logo=github&logoColor=black" alt="Explore projects"/>
+</a>
+<a href="mailto:divyamulchandani12@gmail.com">
+<img src="https://img.shields.io/badge/Let's%20Connect-Email-FF4D6D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
 
 ---
 
-## 🎯 My Cybersecurity Focus Areas
+```text
+┌──(divya㉿cyber-lab)-[~]
+└─$ whoami
+
+    Cybersecurity enthusiast
+    Developer by background
+    Curious mind by default
+    Professional breaker of things (in labs only)
+```
+
+Hey! I'm Divya 👋
+
+I'm an M.Tech Cyber Security student who likes figuring out how things break, why they break, and how to make them harder to break.
+
+From securing APIs to exploring runtime behavior, from cloud misconfigurations to security controls — I'm here for the intersection of **building, breaking, and securing technology.**
+
+## 🧩 My Cybersecurity Universe
 
 <table>
 <tr>
@@ -25,22 +45,24 @@ With a background in full-stack development and hands-on cybersecurity projects,
 
 ### ☁️ Cloud Security
 
-- Cloud infrastructure security
-- Identity and Access Management (IAM)
-- Secure configurations and access controls
-- Cloud risk assessment
-- Infrastructure security monitoring
+*Because the cloud shouldn't rain vulnerabilities.*
+
+- IAM & least privilege
+- Secure cloud configurations
+- Infrastructure security
+- Cloud risk & misconfiguration
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚙️ DevSecOps
 
-- Secure CI/CD pipelines
-- DevSecOps automation
-- Static and dynamic application security testing
-- Dependency and container security
-- Security integration into the SDLC
+*Security belongs in the pipeline, not just the postmortem.*
+
+- CI/CD security
+- SAST & DAST
+- Dependency & container scanning
+- Security automation
 
 </td>
 </tr>
@@ -49,122 +71,159 @@ With a background in full-stack development and hands-on cybersecurity projects,
 
 ### 🛡️ Application Security
 
-- Vulnerability Assessment and Penetration Testing
+*Trust the input? That's how bugs become incidents.*
+
+- API security
 - OWASP Top 10
-- API Security and Authentication
-- Dynamic Analysis and Runtime Instrumentation
-- Secure Coding and Vulnerability Remediation
+- Dynamic analysis with Frida
+- Vulnerability validation
 
 </td>
 <td width="50%" valign="top">
 
-### 📋 Governance, Risk & Compliance
+### 📋 GRC
 
-- Information Security and IT Risk Management
-- Security Controls and Access Management
-- Risk Identification and Assessment
-- Security Documentation and Evidence Collection
-- Compliance and Control Assessment
+*Because finding a vulnerability is one thing. Managing its risk is another.*
+
+- Risk assessment
+- Security controls
+- Compliance mapping
+- Evidence & remediation tracking
 
 </td>
 </tr>
 </table>
 
----
+## 🧰 My Digital Toolbox
 
-## 🛠️ Languages, Tools & Technologies
+<div align="center">
 
-**Programming & Development**
+**Languages & Development**
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,nodejs,express,react,mongodb,mysql" alt="Programming and development technologies"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,nodejs,react,mongodb,mysql" alt="Programming and development tools"/>
 
-**Cybersecurity & Security Testing**
+**Security & Infrastructure**
 
-<p>
-<img src="https://skillicons.dev/icons?i=kali,linux,docker,git,github,postman" alt="Security and development tools"/>
-</p>
+<img src="https://skillicons.dev/icons?i=linux,kali,docker,git,github,postman" alt="Linux, Docker, GitHub and development tools"/>
 
-- **Application Security:** Burp Suite, OWASP ZAP, MobSF, Frida
-- **Network Security:** Nmap, Wireshark
-- **Reverse Engineering:** Ghidra
-- **Cloud & DevSecOps:** Exploring cloud security, CI/CD security, and container security practices
-- **GRC:** Risk assessment, security findings, mitigation recommendations, and evidence documentation
-
----
-
-## 🚀 Featured Projects
-
-### 🔬 Dynamic Exploitability Validation & Forensic Evidence System
-
-A security assessment system for Android and Windows that uses Frida-based runtime instrumentation to validate vulnerabilities and collect forensic evidence.
-
-**Focus:** Application Security · Dynamic Analysis · Security Testing · Evidence Collection
-
-### 🔐 Hybrid Classical–Post-Quantum Signature Scheme for API Security
-
-Ongoing research into a hybrid digital signature framework combining classical and post-quantum cryptographic primitives to strengthen API authentication against future quantum-capable threats.
-
-**Focus:** API Security · Applied Cryptography · Secure Systems Design
-
-### 🛡️ Cybersecurity Platform for Automated Vulnerability Scanning
-
-A Python-based vulnerability assessment platform designed to identify common security issues, including SQL injection, cross-site scripting (XSS), and CSRF.
-
-**Focus:** Application Security · Security Automation · Vulnerability Assessment
-
-### ⛓️ Electra — Decentralized Voting System
-
-A blockchain-based electronic voting project designed to support secure and verifiable voting processes.
-
-**Repository:** [View Electra on GitHub](https://github.com/divyamulchandani/Electra)
-
-**Focus:** Blockchain Security · Ethereum · Solidity · Web Development
-
----
-
-## ☁️ Cloud Security & DevSecOps Learning Goals
-
-I'm continuously expanding my knowledge in:
-
-- Cloud IAM, least-privilege access, and cloud security posture
-- CI/CD pipeline hardening and automated security testing
-- Container image scanning and infrastructure security
-- Secrets management and secure configuration
-- Security controls, risk assessment, and compliance mapping
-
----
-
-## 🏅 Certifications & Achievements
-
-- **Certified AppSec Practitioner v2 (CAP)** — Completed
-- Certified Ethical Hacker (CEH) — In Progress
-- Cisco CCNA — In Progress
-- AWS Academy Machine Learning Foundation
-- AWS Academy Machine Learning for Natural Language Processing
-- Programming, Data Structures and Algorithms using Python
-- Android App Development Training
-- **1st Place** — Intelligent Cyber Forensics: AI-Powered Investigation and Incident Response Bootcamp
-- Presented *AI-Driven Predictive Defence Against Cyber Threats* at the International Conference on Digital Frontiers (2025)
-
----
-
-## 📊 GitHub Statistics
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyamulchandani&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyamulchandani&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages"/>
+<img src="https://img.shields.io/badge/Frida-Runtime%20Analysis-6A5ACD?style=flat-square" alt="Frida"/>
+<img src="https://img.shields.io/badge/MobSF-Mobile%20Security-008577?style=flat-square" alt="MobSF"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6633?style=flat-square" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/OWASP%20ZAP-Security%20Testing-00549E?style=flat-square" alt="OWASP ZAP"/>
+<img src="https://img.shields.io/badge/Nmap-Network%20Recon-4682B4?style=flat-square" alt="Nmap"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyamulchandani&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
+## 🔬 Things I'm Building & Breaking
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🕵️ Exploitability Validation Lab**
+
+A project exploring runtime instrumentation, vulnerability validation, and forensic evidence collection across Android and Windows.
+
+`Frida` `Dynamic Analysis` `Forensics`
+
+</td>
+<td width="50%" valign="top">
+
+**🔐 Post-Quantum API Security**
+
+My ongoing research into hybrid classical and post-quantum digital signatures for more resilient API authentication.
+
+`Cryptography` `API Security` `Research`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔎 Automated Vulnerability Scanner**
+
+A Python-based project focused on identifying common web application vulnerabilities and supporting security assessments.
+
+`Python` `AppSec` `Automation`
+
+</td>
+<td width="50%" valign="top">
+
+**⛓️ Electra — Decentralized Voting**
+
+Exploring blockchain-based voting with an emphasis on secure and verifiable processes.
+
+<a href="https://github.com/divyamulchandani/Electra">↗ Explore the repository</a>
+
+`Ethereum` `Solidity` `Blockchain`
+
+</td>
+</tr>
+</table>
+
+## 🚧 Currently in my lab...
+
+```yaml
+currently_exploring:
+  cloud_security:
+    - IAM and least privilege
+    - Secure cloud configurations
+  devsecops:
+    - Security in CI/CD pipelines
+    - Automated security testing
+  application_security:
+    - API security
+    - Dynamic vulnerability analysis
+  grc:
+    - Risk assessment
+    - Security controls and compliance mapping
+
+research:
+  - Hybrid classical-post-quantum signatures for API security
+
+mission:
+  - Build it
+  - Test it
+  - Secure it
+  - Document the risk
+```
+
+## 🏆 A Little Achievement Unlocked
+
+🏅 **1st Place** — AI-Powered Cyber Forensics Bootcamp, ISEA Project Phase 3
+
+📜 **CAP v2** — Certified AppSec Practitioner
+
+🎓 **M.Tech Cyber Security** — Rashtriya Raksha University
+
+🔬 **Research mode:** ON — Post-quantum API security
+
+## 📊 The GitHub Side Quest
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=divyamulchandani&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5D4&icon_color=00F5D4" height="165" alt="GitHub stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyamulchandani&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5D4" height="165" alt="Most used languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=divyamulchandani&theme=tokyonight&hide_border=true&ring=00F5D4&fire=FF4D6D&currStreakLabel=00F5D4" alt="GitHub contribution streak"/>
+
+</div>
 
 ---
 
-### 🤝 Let's Connect
+<div align="center">
 
-I'm interested in collaborating on projects involving cloud security, DevSecOps, application security, security automation, and GRC.
+### 💬 Got a security idea? Let's build something cool.
 
-**Secure the cloud. Shift security left. Build resilient applications. Manage risk.**
+Open to learning, collaborating, and building projects around Cloud Security, DevSecOps, AppSec, and GRC.
+
+<a href="https://github.com/divyamulchandani?tab=repositories">Explore my repositories</a> · <a href="mailto:divyamulchandani12@gmail.com">Say hello</a>
+
+**`[ ACCESS GRANTED ]`** — to curiosity, experimentation, and continuous learning.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:14213D,100:09090F&height=100&section=footer" width="100%" alt="Decorative footer"/>
+
+</div>
