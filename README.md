@@ -1,37 +1,170 @@
+# Hi 👋, I'm Divya Mulchandani
 
-<h1 align="center">Hi 👋, I'm Divya Mulchandani</h1>
-<h3 align="center">Passionate CSE student exploring backend development and cybersecurity.</h3>
+### ☁️ Cloud Security | ⚙️ DevSecOps | 🛡️ Application Security | 📋 GRC
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyamulchandani&label=Profile%20views&color=0e75b6&style=flat" alt="divyamulchandani" /> </p>
+I'm an M.Tech Cyber Security student at **Rashtriya Raksha University**, passionate about securing cloud infrastructure, integrating security into software development, identifying application vulnerabilities, and managing information security risks.
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyamulchandani" alt="divyamulchandani" /></a> </p>--!>
+With a background in full-stack development and hands-on cybersecurity projects, I enjoy bridging the gap between **development, security engineering, and risk management**.
 
-- 📫 How to reach me **divyamulchandani12@gmail.com**
+- ☁️ Exploring Cloud Security and Infrastructure Security
+- ⚙️ Interested in DevSecOps, CI/CD Security, and Security Automation
+- 🛡️ Working with Application Security, Vulnerability Assessment, and Secure Coding
+- 📋 Focused on Governance, Risk & Compliance (GRC) and IT Risk Management
+- 🔬 Researching Hybrid Classical–Post-Quantum Signatures for API Security
+- 🏆 1st Place — AI-Powered Cyber Forensics Bootcamp, ISEA Project Phase 3
+- 📫 Reach me at: **[divyamulchandani12@gmail.com](mailto:divyamulchandani12@gmail.com)**
+- 💼 GitHub: [@divyamulchandani](https://github.com/divyamulchandani)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
+
+## 🎯 My Cybersecurity Focus Areas
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud Security
+
+- Cloud infrastructure security
+- Identity and Access Management (IAM)
+- Secure configurations and access controls
+- Cloud risk assessment
+- Infrastructure security monitoring
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ DevSecOps
+
+- Secure CI/CD pipelines
+- DevSecOps automation
+- Static and dynamic application security testing
+- Dependency and container security
+- Security integration into the SDLC
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Application Security
+
+- Vulnerability Assessment and Penetration Testing
+- OWASP Top 10
+- API Security and Authentication
+- Dynamic Analysis and Runtime Instrumentation
+- Secure Coding and Vulnerability Remediation
+
+</td>
+<td width="50%" valign="top">
+
+### 📋 Governance, Risk & Compliance
+
+- Information Security and IT Risk Management
+- Security Controls and Access Management
+- Risk Identification and Assessment
+- Security Documentation and Evidence Collection
+- Compliance and Control Assessment
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Languages, Tools & Technologies
+
+**Programming & Development**
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,nodejs,express,react,mongodb,mysql" alt="Programming and development technologies"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+**Cybersecurity & Security Testing**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyamulchandani&show_icons=true&locale=en&layout=compact" alt="divyamulchandani" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=kali,linux,docker,git,github,postman" alt="Security and development tools"/>
+</p>
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyamulchandani&show_icons=true&locale=en" alt="divyamulchandani" /></p>--!>
+- **Application Security:** Burp Suite, OWASP ZAP, MobSF, Frida
+- **Network Security:** Nmap, Wireshark
+- **Reverse Engineering:** Ghidra
+- **Cloud & DevSecOps:** Exploring cloud security, CI/CD security, and container security practices
+- **GRC:** Risk assessment, security findings, mitigation recommendations, and evidence documentation
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyamulchandani&" alt="divyamulchandani" /></p>
+---
 
-<!--
-**DivyaMulchandani/DivyaMulchandani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Featured Projects
 
-Here are some ideas to get you started:
+### 🔬 Dynamic Exploitability Validation & Forensic Evidence System
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A security assessment system for Android and Windows that uses Frida-based runtime instrumentation to validate vulnerabilities and collect forensic evidence.
+
+**Focus:** Application Security · Dynamic Analysis · Security Testing · Evidence Collection
+
+### 🔐 Hybrid Classical–Post-Quantum Signature Scheme for API Security
+
+Ongoing research into a hybrid digital signature framework combining classical and post-quantum cryptographic primitives to strengthen API authentication against future quantum-capable threats.
+
+**Focus:** API Security · Applied Cryptography · Secure Systems Design
+
+### 🛡️ Cybersecurity Platform for Automated Vulnerability Scanning
+
+A Python-based vulnerability assessment platform designed to identify common security issues, including SQL injection, cross-site scripting (XSS), and CSRF.
+
+**Focus:** Application Security · Security Automation · Vulnerability Assessment
+
+### ⛓️ Electra — Decentralized Voting System
+
+A blockchain-based electronic voting project designed to support secure and verifiable voting processes.
+
+**Repository:** [View Electra on GitHub](https://github.com/divyamulchandani/Electra)
+
+**Focus:** Blockchain Security · Ethereum · Solidity · Web Development
+
+---
+
+## ☁️ Cloud Security & DevSecOps Learning Goals
+
+I'm continuously expanding my knowledge in:
+
+- Cloud IAM, least-privilege access, and cloud security posture
+- CI/CD pipeline hardening and automated security testing
+- Container image scanning and infrastructure security
+- Secrets management and secure configuration
+- Security controls, risk assessment, and compliance mapping
+
+---
+
+## 🏅 Certifications & Achievements
+
+- **Certified AppSec Practitioner v2 (CAP)** — Completed
+- Certified Ethical Hacker (CEH) — In Progress
+- Cisco CCNA — In Progress
+- AWS Academy Machine Learning Foundation
+- AWS Academy Machine Learning for Natural Language Processing
+- Programming, Data Structures and Algorithms using Python
+- Android App Development Training
+- **1st Place** — Intelligent Cyber Forensics: AI-Powered Investigation and Incident Response Bootcamp
+- Presented *AI-Driven Predictive Defence Against Cyber Threats* at the International Conference on Digital Frontiers (2025)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divyamulchandani&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyamulchandani&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyamulchandani&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+I'm interested in collaborating on projects involving cloud security, DevSecOps, application security, security automation, and GRC.
+
+**Secure the cloud. Shift security left. Build resilient applications. Manage risk.**
